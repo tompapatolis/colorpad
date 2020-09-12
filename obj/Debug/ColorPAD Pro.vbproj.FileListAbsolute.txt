@@ -1,0 +1,16 @@
+E:\visual_studio\ColorPAD Pro\bin\Debug\ColorPAD Pro.exe.config
+E:\visual_studio\ColorPAD Pro\bin\Debug\ColorPAD Pro.exe
+E:\visual_studio\ColorPAD Pro\bin\Debug\ColorPAD Pro.pdb
+E:\visual_studio\ColorPAD Pro\bin\Debug\ColorPAD Pro.xml
+E:\visual_studio\ColorPAD Pro\obj\Debug\ColorPAD_Pro.Resources.resources
+E:\visual_studio\ColorPAD Pro\obj\Debug\ColorPAD Pro.vbproj.GenerateResource.cache
+E:\visual_studio\ColorPAD Pro\obj\Debug\ColorPAD Pro.vbproj.CoreCompileInputs.cache
+E:\visual_studio\ColorPAD Pro\obj\Debug\ColorPAD Pro.exe
+E:\visual_studio\ColorPAD Pro\obj\Debug\ColorPAD Pro.xml
+E:\visual_studio\ColorPAD Pro\obj\Debug\ColorPAD Pro.pdb
+E:\visual_studio\ColorPAD Pro\obj\Debug\ColorPAD_Pro.frmMain.resources
+E:\visual_studio\ColorPAD Pro\bin\Debug\ColorPAD Pro.exe.manifest
+E:\visual_studio\ColorPAD Pro\bin\Debug\ColorPAD Pro.application
+E:\visual_studio\ColorPAD Pro\obj\Debug\ColorPAD Pro.vbprojAssemblyReference.cache
+E:\visual_studio\ColorPAD Pro\obj\Debug\ColorPAD Pro.exe.manifest
+E:\visual_studio\ColorPAD Pro\obj\Debug\ColorPAD Pro.application
